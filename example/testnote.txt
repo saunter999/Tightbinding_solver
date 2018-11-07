@@ -1,0 +1,1 @@
+! 1d lattice with one orb for n+nn+nnn hopping tested.
